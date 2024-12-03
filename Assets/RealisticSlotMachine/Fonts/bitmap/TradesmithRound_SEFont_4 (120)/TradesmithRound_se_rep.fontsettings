@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &12800000
+Font:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TradesmithRound_se_rep
+  serializedVersion: 5
+  m_LineSpacing: 129.48
+  m_DefaultMaterial: {fileID: 2100000, guid: bd33a2c8bb69d2e49b6bfb87b507b64a, type: 2}
+  m_FontSize: 120
+  m_Texture: {fileID: 2800000, guid: 97d450831e671754cbfd2dd164aa31d0, type: 3}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 0
+  m_CharacterPadding: 5
+  m_ConvertCase: 3
+  m_CharacterRects:
+  - serializedVersion: 2
+    index: 32
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.0390625
+      height: 0.01953125
+    vert:
+      serializedVersion: 2
+      x: -5
+      y: 5
+      width: 10
+      height: -10
+    advance: 37
+    flipped: 0
+  - serializedVersion: 2
+    index: 44
+    uv:
+      serializedVersion: 2
+      x: 0.1484375
+      y: 0
+      width: 0.10546875
+      height: 0.068359375
+    vert:
+      serializedVersion: 2
+      x: -3
+      y: 20
+      width: 27
+      height: -35
+    advance: 21
+    flipped: 0
+  - serializedVersion: 2
+    index: 46
+    uv:
+      serializedVersion: 2
+      x: 0.0390625
+      y: 0
+      width: 0.11328125
+      height: 0.05859375
+    vert:
+      serializedVersion: 2
+      x: -3
+      y: 25
+      width: 29
+      height: -30
+    advance: 23
+    flipped: 0
+  - serializedVersion: 2
+    index: 48
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.125
+      width: 0.265625
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 68
+      height: -94
+    advance: 64
+    flipped: 0
+  - serializedVersion: 2
+    index: 49
+    uv:
+      serializedVersion: 2
+      x: 0.46875
+      y: 0
+      width: 0.1328125
+      height: 0.18554688
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 90
+      width: 34
+      height: -95
+    advance: 34
+    flipped: 0
+  - serializedVersion: 2
+    index: 50
+    uv:
+      serializedVersion: 2
+      x: 0.53125
+      y: 0.1875
+      width: 0.26953125
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -9
+      y: 89
+      width: 69
+      height: -94
+    advance: 58
+    flipped: 0
+  - serializedVersion: 2
+    index: 51
+    uv:
+      serializedVersion: 2
+      x: 0.6015625
+      y: 0
+      width: 0.2578125
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 66
+      height: -94
+    advance: 62
+    flipped: 0
+  - serializedVersion: 2
+    index: 52
+    uv:
+      serializedVersion: 2
+      x: 0.546875
+      y: 0.375
+      width: 0.28125
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 72
+      height: -94
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 53
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.375
+      width: 0.2734375
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 70
+      height: -94
+    advance: 66
+    flipped: 0
+  - serializedVersion: 2
+    index: 54
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.5625
+      width: 0.28515625
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 73
+      height: -94
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 55
+    uv:
+      serializedVersion: 2
+      x: 0.265625
+      y: 0.1875
+      width: 0.265625
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 68
+      height: -94
+    advance: 64
+    flipped: 0
+  - serializedVersion: 2
+    index: 56
+    uv:
+      serializedVersion: 2
+      x: 0.2734375
+      y: 0.375
+      width: 0.2734375
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 70
+      height: -94
+    advance: 66
+    flipped: 0
+  - serializedVersion: 2
+    index: 57
+    uv:
+      serializedVersion: 2
+      x: 0.28125
+      y: 0.5625
+      width: 0.28515625
+      height: 0.18359375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 89
+      width: 73
+      height: -94
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 58
+    uv:
+      serializedVersion: 2
+      x: 0.25
+      y: 0
+      width: 0.11328125
+      height: 0.12109375
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 56
+      width: 29
+      height: -62
+    advance: 25
+    flipped: 0
+  - serializedVersion: 2
+    index: 59
+    uv:
+      serializedVersion: 2
+      x: 0.359375
+      y: 0
+      width: 0.11328125
+      height: 0.12695312
+    vert:
+      serializedVersion: 2
+      x: -2
+      y: 50
+      width: 29
+      height: -65
+    advance: 25
+    flipped: 0
+  m_KerningValues: []
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 105.479996
+  m_Descent: -24
+  m_DefaultStyle: 0
+  m_FontNames:
+  - Tradesmith
+  m_FallbackFonts: []
+  m_FontRenderingMode: 0
+  m_UseLegacyBoundsCalculation: 0
+  m_ShouldRoundAdvanceValue: 1

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ba18d8cccee52f4491607c2bff9b4ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/Touch/TouchPadMessageTarget.cs
+  uploadId: 707690

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 346e27f340642ec49a5bbb551f54281c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/GUI/OpenURLButton.cs
+  uploadId: 707690

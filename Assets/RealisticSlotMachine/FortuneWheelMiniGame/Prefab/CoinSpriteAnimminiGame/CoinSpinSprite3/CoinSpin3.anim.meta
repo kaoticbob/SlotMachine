@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cdf9dec7bbf81d4f8bf260644e315aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/FortuneWheelMiniGame/Prefab/CoinSpriteAnimminiGame/CoinSpinSprite3/CoinSpin3.anim
+  uploadId: 707690

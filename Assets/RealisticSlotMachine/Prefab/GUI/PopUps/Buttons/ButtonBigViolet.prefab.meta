@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ea2c1669a499cd43b7dbc5604ff0d9d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/Buttons/ButtonBigViolet.prefab
+  uploadId: 707690

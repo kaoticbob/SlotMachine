@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 4cbbb280f43768b4dacffee25390e0cc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HELLO DENVER DISPLAY BOLD
+  fontNames:
+  - HELLO DENVER DISPLAY BOLD
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Fonts/ttf/HELLODENVERDISPLAYBOLD_V1.6.TTF
+  uploadId: 707690

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f964696522179104cba06320b1257452
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/Social/FaceBookGUIController.cs
+  uploadId: 707690

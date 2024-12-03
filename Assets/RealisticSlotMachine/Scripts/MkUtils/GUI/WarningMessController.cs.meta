@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ad09ef71a4c24734bbf4628fa5bdb56f
+timeCreated: 1469599293
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/GUI/WarningMessController.cs
+  uploadId: 707690

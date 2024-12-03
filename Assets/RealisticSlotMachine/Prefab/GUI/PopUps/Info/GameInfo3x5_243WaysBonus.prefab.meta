@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 62a2a251bf3531d4db8afaac3b66942c
+timeCreated: 1522860109
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/Info/GameInfo3x5_243WaysBonus.prefab
+  uploadId: 707690

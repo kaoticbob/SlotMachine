@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9487b01107a3d54e83da36125219221
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/Slot/WinEvents.prefab
+  uploadId: 707690

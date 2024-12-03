@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ada91779f3cafa419196758792a3e1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/FortuneWheelMiniGame/Scripts/Sector.cs
+  uploadId: 707690

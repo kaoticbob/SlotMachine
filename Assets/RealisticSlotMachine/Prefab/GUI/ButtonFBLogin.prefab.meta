@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad8c86924e8b67948aec867c604c8e4c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/ButtonFBLogin.prefab
+  uploadId: 707690

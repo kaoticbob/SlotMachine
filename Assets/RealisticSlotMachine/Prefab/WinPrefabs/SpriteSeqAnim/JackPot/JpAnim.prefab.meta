@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9bdac91d7b4ab4e46b240bd1620dc902
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/JackPot/JpAnim.prefab
+  uploadId: 707690

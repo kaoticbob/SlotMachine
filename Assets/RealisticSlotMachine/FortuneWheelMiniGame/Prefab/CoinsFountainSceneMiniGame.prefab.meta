@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 577cb65a30eea1247a3bffd5a7f59bc8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/FortuneWheelMiniGame/Prefab/CoinsFountainSceneMiniGame.prefab
+  uploadId: 707690

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0108c06aebe10d41837955af0c4615d
+timeCreated: 1485372854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/Info/IconPayTable.prefab
+  uploadId: 707690

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5c6cd480a0d54284a8ecc0a4dc778cd8
+timeCreated: 1519041959
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/Shop/FailedPurchaseMessagePU.prefab
+  uploadId: 707690

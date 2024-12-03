@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2065ed8aa072a5040a164516db635508
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MKUtils_Beta/DealSale/DealSaleGUIController.cs
+  uploadId: 707690

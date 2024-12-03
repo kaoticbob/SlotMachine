@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7d3ab59d33509f246903085cf93f98ed
+timeCreated: 1519041746
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/ScreenPU.prefab
+  uploadId: 707690

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 579d768ec8843854fb9002e5ed8892a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/LevelGuiController.prefab
+  uploadId: 707690

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbb99836e07dd574cb9a8a288859430a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/SlotLineRenders/DotLineRenderer.prefab
+  uploadId: 707690

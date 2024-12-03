@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bded57b5cffe88141b607a1d398c0e72
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Materials_Shaders/Stencil/TransparentMask.shader
+  uploadId: 707690

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8a1821a57f1130746bd1ad8bc59ab3af
+timeCreated: 1521134495
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/SceneLoad/SceneLoader.cs
+  uploadId: 707690

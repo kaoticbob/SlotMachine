@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 030c2b875b3cddf4e8963a954676f970
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Materials_Shaders/EasyText/SoftShaderFontWithShadows.shader
+  uploadId: 707690

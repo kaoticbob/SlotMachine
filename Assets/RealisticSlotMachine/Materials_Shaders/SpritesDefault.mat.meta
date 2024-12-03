@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f37b379ff70aca4fac088adecd39ffd
+timeCreated: 1470636846
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Materials_Shaders/SpritesDefault.mat
+  uploadId: 707690

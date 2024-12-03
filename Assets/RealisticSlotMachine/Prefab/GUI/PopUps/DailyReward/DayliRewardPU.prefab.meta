@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4edd3d51a7360eb46a63acff0b89c68a
+timeCreated: 1519041746
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/DailyReward/DayliRewardPU.prefab
+  uploadId: 707690

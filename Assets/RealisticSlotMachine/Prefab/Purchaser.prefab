@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1754566507179232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4468848661959634}
+  - component: {fileID: 114469100572762340}
+  - component: {fileID: 114962611060514322}
+  - component: {fileID: 3115196406082606283}
+  - component: {fileID: 5704752223050968058}
+  m_Layer: 0
+  m_Name: Purchaser
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4468848661959634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754566507179232}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1301.671, y: 527.47534, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114469100572762340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754566507179232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f1d65a6a59764da42045903cc9599, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  consumable:
+  - name: 5000 coins
+    kProductID: coin_5000
+    PurchaseEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5704752223050968058}
+          m_TargetAssemblyTypeName: Mkey.CoinsHelper, Assembly-CSharp
+          m_MethodName: AddCoins
+          m_Mode: 3
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 5000
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    clickEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - name: 11 000 coins
+    kProductID: coin_11000
+    PurchaseEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5704752223050968058}
+          m_TargetAssemblyTypeName: Mkey.CoinsHelper, Assembly-CSharp
+          m_MethodName: AddCoins
+          m_Mode: 3
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 11000
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    clickEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - name: 27000 coins
+    kProductID: coin_27000
+    PurchaseEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5704752223050968058}
+          m_TargetAssemblyTypeName: Mkey.CoinsHelper, Assembly-CSharp
+          m_MethodName: AddCoins
+          m_Mode: 3
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 27500
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    clickEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - name: 110000 coins
+    kProductID: coin_110000
+    PurchaseEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5704752223050968058}
+          m_TargetAssemblyTypeName: Mkey.CoinsHelper, Assembly-CSharp
+          m_MethodName: AddCoins
+          m_Mode: 3
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 110000
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    clickEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - name: 110000 coins sale
+    kProductID: coinsale_110000
+    PurchaseEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5704752223050968058}
+          m_TargetAssemblyTypeName: Mkey.CoinsHelper, Assembly-CSharp
+          m_MethodName: AddCoins
+          m_Mode: 3
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 110000
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    clickEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - name: 27000 coins sale
+    kProductID: coinsale_27000
+    PurchaseEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5704752223050968058}
+          m_TargetAssemblyTypeName: Mkey.CoinsHelper, Assembly-CSharp
+          m_MethodName: AddCoins
+          m_Mode: 3
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 27000
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    clickEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  nonConsumable: []
+  subscriptions: []
+--- !u!114 &114962611060514322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754566507179232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 064cc09f32b3db44c947fa14fe0810c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3115196406082606283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754566507179232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67cc00221d4c90b4cb579cac12c11114, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goodMessagePrefab: {fileID: 114065369340063790, guid: edb81f26cac285c40b86ec4f216c769c,
+    type: 3}
+  failedMessagePrefab: {fileID: 114065369340063790, guid: 5c6cd480a0d54284a8ecc0a4dc778cd8,
+    type: 3}
+  showGoodMessage: 1
+  showFailedMessage: 1
+--- !u!114 &5704752223050968058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754566507179232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa786bc713f5e4849a5e517b608d7171, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

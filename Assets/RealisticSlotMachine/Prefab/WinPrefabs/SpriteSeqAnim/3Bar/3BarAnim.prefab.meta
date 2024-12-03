@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51a9bb7f28125e847950e18c4ec55fef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/3Bar/3BarAnim.prefab
+  uploadId: 707690

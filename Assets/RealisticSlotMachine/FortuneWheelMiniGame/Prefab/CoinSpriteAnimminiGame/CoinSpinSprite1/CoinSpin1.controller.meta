@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcef538c5756f3d43914751bba1f7302
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/FortuneWheelMiniGame/Prefab/CoinSpriteAnimminiGame/CoinSpinSprite1/CoinSpin1.controller
+  uploadId: 707690

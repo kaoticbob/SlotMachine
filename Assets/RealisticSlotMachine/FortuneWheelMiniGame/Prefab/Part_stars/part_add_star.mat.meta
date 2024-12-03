@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b78cb98b946dd44c941156f7e3d4870
+timeCreated: 1468268058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/FortuneWheelMiniGame/Prefab/Part_stars/part_add_star.mat
+  uploadId: 707690

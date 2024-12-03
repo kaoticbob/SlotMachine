@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1938728723a3af46a5f927fea014fea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/Orrange/OrrangeAnim.anim
+  uploadId: 707690

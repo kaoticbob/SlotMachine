@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55bdf5e8ae6ddb44a8cba4fb279694cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/GUI/ShowRandomGuiPopUp.cs
+  uploadId: 707690

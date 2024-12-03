@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5669ca71ffc98bc40841e1ab1709e543
+timeCreated: 1519041789
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/LevelXPPU.prefab
+  uploadId: 707690

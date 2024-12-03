@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dd157df53cdf6948a01e247a8752b72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/Wild/WildAnim.controller
+  uploadId: 707690

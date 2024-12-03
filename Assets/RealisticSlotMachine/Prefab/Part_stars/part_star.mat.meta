@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 362b8c256eb8c9141a64cebdbf168ecc
+timeCreated: 1468268058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/Part_stars/part_star.mat
+  uploadId: 707690

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ffddf349ce425c429b32330b356634a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/Player.prefab
+  uploadId: 707690

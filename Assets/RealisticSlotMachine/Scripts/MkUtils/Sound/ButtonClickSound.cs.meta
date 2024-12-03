@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9484e689775c8c444a6932193ab4abac
+timeCreated: 1484665866
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/MkUtils/Sound/ButtonClickSound.cs
+  uploadId: 707690

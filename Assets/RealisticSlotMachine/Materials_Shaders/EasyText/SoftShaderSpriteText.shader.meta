@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd9032cd48381194ba3f83eca018714e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Materials_Shaders/EasyText/SoftShaderSpriteText.shader
+  uploadId: 707690

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de409073ecd892f43abf67c73ddaee59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/SlotLineRenders/GradientLineRenderer.prefab
+  uploadId: 707690

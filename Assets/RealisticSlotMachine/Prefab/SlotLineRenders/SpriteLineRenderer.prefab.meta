@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c85a3b3ac49ab394c8d02390f4c54fc0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/SlotLineRenders/SpriteLineRenderer.prefab
+  uploadId: 707690

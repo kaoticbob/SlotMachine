@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c3a4036220b1f74cbf8127b564e92f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/CanvasOverlay(for popups).prefab
+  uploadId: 707690

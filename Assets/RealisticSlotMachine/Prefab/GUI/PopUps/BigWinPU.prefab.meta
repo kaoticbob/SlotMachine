@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7598de60c6d5ec44895324e40f176275
+timeCreated: 1519041959
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/BigWinPU.prefab
+  uploadId: 707690

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af06b9e15e5272b41a3b526d3991e273
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/Cherry/CherryAnim.prefab
+  uploadId: 707690

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01c1c0fcbf45414468a40bb524aee5dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/ChestMiniGame/CoinImageAnim/Coin1/CoinImageAnim.anim
+  uploadId: 707690

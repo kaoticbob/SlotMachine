@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2532a5e9087854743b0848fe2c9d9471
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/GUI/PopUps/LoadGroupPU.prefab
+  uploadId: 707690

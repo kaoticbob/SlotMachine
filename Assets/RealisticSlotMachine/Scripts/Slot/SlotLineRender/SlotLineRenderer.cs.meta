@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ebc41bfb7019f1d4b961fed99037e41a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Scripts/Slot/SlotLineRender/SlotLineRenderer.cs
+  uploadId: 707690

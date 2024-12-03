@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2cbbb28c233c7754db1c941fa1cc5fd9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/SlotLineRenders/SolidLineRenderer.prefab
+  uploadId: 707690

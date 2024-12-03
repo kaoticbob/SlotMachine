@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0763a001c68f1a04bb6ac9a7d19dfea0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/WinSymbolSpriteBlink.prefab
+  uploadId: 707690

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 848ede84c1c30ca4287bb5a50e556ce8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/Grape/GrapeAnim.anim
+  uploadId: 707690

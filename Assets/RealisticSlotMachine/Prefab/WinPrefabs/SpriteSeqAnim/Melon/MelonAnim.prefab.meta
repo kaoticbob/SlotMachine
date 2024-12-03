@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b63f1f4ef1829e4e902c4cc90575ff3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157533
+  packageName: MK - Realistic Slot Machine
+  packageVersion: 1.7.0
+  assetPath: Assets/RealisticSlotMachine/Prefab/WinPrefabs/SpriteSeqAnim/Melon/MelonAnim.prefab
+  uploadId: 707690
